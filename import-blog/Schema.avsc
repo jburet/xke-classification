@@ -1,0 +1,9 @@
+{
+  "namespace": "jbu",
+  "type" : "record",
+  "name" : "Article",
+  "fields" : [
+    {"name" : "title", "type" : "string"},
+    {"name" : "content", "type" : "string"}
+  ]
+}
